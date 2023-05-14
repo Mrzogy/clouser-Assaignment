@@ -19,7 +19,9 @@ struct Book {
     var price: Double
     var nPage: Int
     var readingAge: Int
+    var mm:Int
 }
+
 /*:
  You will be working with an array of Book instances:
  */
