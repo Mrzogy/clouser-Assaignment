@@ -19,7 +19,7 @@ struct Book {
     var price: Double
     var nPage: Int
     var readingAge: Int
-    var mm:Int
+    gggggggg
 }
 
 /*:
